@@ -29,4 +29,3 @@ https://github.com/domerin0/rnn-speech/blob/master/util/dataprocessor.py
 https://docs.google.com/presentation/d/1zzgNu_HbKL2iPkHS8-qhtDV20QfWt9lC3ZwPVZo8Rw0/pub?start=false&loop=false&delayms=3000#slide=id.g5a7a9806e_0_67
 
 https://www.kaggle.com/parulpandey/eda-and-audio-processing-with-python/notebook
-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
